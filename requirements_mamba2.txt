@@ -1,0 +1,24 @@
+torch>=1.12.0
+torchvision>=0.13.0
+einops>=0.6.0
+numpy>=1.21.0
+scikit-learn>=1.0.0
+matplotlib>=3.5.0
+wandb>=0.13.0
+ray[air]>=2.0.0
+
+# Optional: Mamba2 optimized dependencies (install if available)
+# mamba-ssm>=1.0.0
+# causal-conv1d>=1.0.0
+
+# Fallback packages if optimized versions are not available
+# These will be used automatically by the fallback implementations
+
+
+
+
+
+
+
+
+
